@@ -1,0 +1,7 @@
+div form .input_field {
+  width: 100%;
+  margin: 1rem 0;
+}
+div form .input_field:focus {
+  outline: none;
+}/*# sourceMappingURL=contact_form.css.map */

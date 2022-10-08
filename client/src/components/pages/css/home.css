@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 90%;
+  margin: 4rem auto 0;
+}
+.home .home_form {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+}
+.home .home_list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}/*# sourceMappingURL=home.css.map */
